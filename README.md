@@ -7,7 +7,7 @@
 4. Onedriveの有効性を確認、User内の各フォルダがローカルかバックアップかを選択
 
 ### アプリケーションインストール1
-1. 管理者権限でwtを実行(Windows Terminalを開く)し、`Set-ExecutionPolicy RemoteSigned` を適用後、`> winget import apps.json`でwingetがつかえるものはまとめてインストールする。
+1. 管理者権限でwtを実行(Windows Terminalを開く)し、`Set-ExecutionPolicy RemoteSigned` を適用後、`> powershell apps.ps1`でwingetがつかえるものはまとめてインストールする。
 2. `> wsl --install`から再起動して初期設定をひと通りやる。
 3. Files (windows用ファイラーソフト) をインストール
 4. `Set-ExecutionPolicy Restricted`へ戻す
@@ -19,7 +19,7 @@
 2. Adobe
 3. DaVinci Resolve
 4. LaTeX
-5. aruduino IDE
+5. arduino IDE
 
 
 ### 設定ファイル
