@@ -12,6 +12,6 @@ winget install -e --id Musescore.Musescore
 winget install -e --id Valve.Steam
 winget install -e --id KiCad.KiCad
 winget install -e --id=Google.JapaneseIME
-
+winget install -e --id Git.Git
 
 Set-ExecutionPolicy Restricted
