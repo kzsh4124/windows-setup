@@ -7,7 +7,7 @@
 4. Onedriveの有効性を確認、User内の各フォルダがローカルかバックアップかを選択
 
 ### アプリケーションインストール1
-1. 管理者権限でwtを実行(Windows Terminalを開く)し、`Set-ExecutionPolicy RemoteSigned` を適用後、`> powershell apps.ps1`でwingetがつかえるものはまとめてインストールする。
+1. 管理者権限でwtを実行(Windows Terminalを開く)し、`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` を適用後、`> powershell apps.ps1`でwingetがつかえるものはまとめてインストールする。
 2. `> wsl --install`から再起動して初期設定をひと通りやる。
 3. Files (windows用ファイラーソフト) をインストール
 4. `Set-ExecutionPolicy Restricted`へ戻す
