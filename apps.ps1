@@ -15,7 +15,6 @@ winget install -e --id Google.JapaneseIME
 winget install -e --id Git.Git
 winget install -e --id Unity.UnityHub
 winget install -e --id Neovim.Neovim
-winget install -e --id FilesCommunity.Files
 winget install -e --id yt-dlp.yt-dlp
 
 
