@@ -23,7 +23,7 @@ winget install -e --id yt-dlp.yt-dlp
 echo "git settings"
 
 git config --global user.name "kzsh4124"
-git config --global user.email "ucan-lab@example.com"
+git config --global user.email "kazushi.02140413@gmail.com"
 
 
 Set-ExecutionPolicy Restricted
