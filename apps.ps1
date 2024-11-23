@@ -17,6 +17,7 @@ winget install -e --id Unity.UnityHub
 winget install -e --id Neovim.Neovim
 winget install -e --id yt-dlp.yt-dlp
 
+winget install --id=KiCad.KiCad  -e
 
 
 echo "git settings"
