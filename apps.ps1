@@ -18,7 +18,7 @@ winget install -e --id Neovim.Neovim
 winget install -e --id yt-dlp.yt-dlp
 
 winget install --id=EDRLab.Thorium  -e
-
+winget install --id=Brave.Brave  -e
 
 echo "git settings"
 
