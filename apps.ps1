@@ -22,7 +22,7 @@ winget install --id=Brave.Brave  -e
 winget install --id=DigitalScholar.Zotero  -e
 winget install --id=AnalogDevices.LTspice  -e
 winget install -e --id FilesCommunity.Files
-
+winget install --id=ArduinoSA.IDE.stable  -e
 
 echo "git settings"
 
