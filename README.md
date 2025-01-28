@@ -9,9 +9,8 @@
 ### アプリケーションインストール1
 1. 管理者権限でwtを実行(Windows Terminalを開く)し、`Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` を適用後、`> powershell apps.ps1`でwingetがつかえるものはまとめてインストールする。
 2. `> wsl --install`から再起動して初期設定をひと通りやる。
-3. Files (windows用ファイラーソフト) をインストール
-4. `Set-ExecutionPolicy Restricted`へ戻す
-5. cica font
+3. `Set-ExecutionPolicy Restricted`へ戻す
+5. [cica font](https://github.com/miiton/Cica)
 
 
 ### アプリケーションインストール2
@@ -19,7 +18,6 @@
 2. Adobe
 3. DaVinci Resolve
 4. LaTeX
-5. arduino IDE
 
 
 ### 設定ファイル
