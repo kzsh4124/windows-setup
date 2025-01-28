@@ -19,6 +19,10 @@ winget install -e --id yt-dlp.yt-dlp
 
 winget install --id=EDRLab.Thorium  -e
 winget install --id=Brave.Brave  -e
+winget install --id=DigitalScholar.Zotero  -e
+winget install --id=AnalogDevices.LTspice  -e
+winget install -e --id FilesCommunity.Files
+
 
 echo "git settings"
 
